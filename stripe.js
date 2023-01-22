@@ -1,5 +1,5 @@
 import Stripe from "stripe";
-const stripe = Stripe('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');
+const stripe = Stripe('Your_SK_KEY');
 import fs from "fs";
 let data=`5333171063710046|4|23|444
 5332480189481130|10|24|359
